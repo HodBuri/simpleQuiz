@@ -1,2 +1,2 @@
-# simpleQuizz
+# simpleQuiz
 For CS python101
