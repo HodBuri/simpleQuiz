@@ -9,7 +9,7 @@ def getQuestionList():
                      {'Q':'What is a CHARACTER(cha)','A':'A single symbol like "A"'},
                      {'Q':'What is a TUPLE','A':'An Array of elements that is immutable'},
                      {'Q':'What is a LIST','A':'An Array of elements that is mutable'},
-                     {'Q':'What is a ARRAY','A':'A data structure consisting of a collection of elements'},
+                     {'Q':'What is an ARRAY','A':'A data structure consisting of a collection of elements'},
                      {'Q':'What is a DICT/MAP','A':'An associative array'},
                      {'Q':'What is a NULL value','A':'Nothing,Zero,Missing Data'},
                      {'Q':'What is a VARIABLE(var)','A':'A data type that can change'},
